@@ -20,7 +20,7 @@
         "LowerNickname": "sannech",
         "Side": "Bear",
         "Level": 1,
-        "Experience": 0,
+        "Experience": 200,
         "RegistrationDate": 1767030296,
         "GameVersion": "edge_of_darkness",
         "AccountType": 0,
@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1767031042
+        "UpdateTime": 1767032163
       },
       "Inventory": {
         "items": [
@@ -3214,6 +3214,91 @@
           {
             "_id": "6613bb72b5b0ba138a0fab08",
             "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "6952bf0b9c9fab3e60377427",
+            "_tpl": "590c2c9c86f774245b1f03f2",
+            "parentId": "6613bb72b5b0ba138a0fab07",
+            "slotId": "hideout",
+            "location": {
+              "x": 8,
+              "y": 38,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6952bf0b9c9fab3e6037742a",
+            "_tpl": "5aafbde786f774389d0cbc0f",
+            "parentId": "6613bb72b5b0ba138a0fab07",
+            "slotId": "hideout",
+            "location": {
+              "x": 8,
+              "y": 39,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "6952bf0b9c9fab3e6037742b",
+            "_tpl": "6389c6463485cf0eeb260715",
+            "parentId": "6613bb72b5b0ba138a0fab07",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 40,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "6952bf0b9c9fab3e6037742c",
+            "_tpl": "63a8970d7108f713591149f5",
+            "parentId": "6613bb72b5b0ba138a0fab07",
+            "slotId": "hideout",
+            "location": {
+              "x": 1,
+              "y": 40,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "6952bf0b9c9fab3e6037742d",
+            "_tpl": "63a8970d7108f713591149f5",
+            "parentId": "6613bb72b5b0ba138a0fab07",
+            "slotId": "hideout",
+            "location": {
+              "x": 3,
+              "y": 40,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "6952bf0b9c9fab3e6037742e",
+            "_tpl": "63a897c6b1ff6e29734fcc95",
+            "parentId": "6613bb72b5b0ba138a0fab07",
+            "slotId": "hideout",
+            "location": {
+              "x": 5,
+              "y": 40,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
           }
         ],
         "equipment": "6952be1878362c390c9ce079",
@@ -3289,10 +3374,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 0,
+            "PointsEarnedDuringSession": 0.1,
+            "LastAccess": 1767032220,
             "Id": "Intellect",
-            "Progress": 0
+            "Progress": 0.1
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -3811,7 +3896,9 @@
         "657bab6ec6f689d3a205b85f": false,
         "657babc6f58ba5a6250107a2": false,
         "657bb92fa1c61ee0c303631f": false,
-        "657bb99db30eca976305117f": false
+        "657bb99db30eca976305117f": false,
+        "63a897c6b1ff6e29734fcc95": false,
+        "63a8970d7108f713591149f5": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -4313,7 +4400,7 @@
         "HideoutCounters": null,
         "Seed": "7947358f6099763725482733be85493c",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767031079,
+        "sptUpdateLastRunTimestamp": 1767032249,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -4492,7 +4579,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1717779074,
+        "nextResetTime": 1717951874,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -4510,7 +4597,7 @@
         "LowerNickname": "",
         "Side": "Savage",
         "Level": 1,
-        "Experience": 0,
+        "Experience": 200,
         "RegistrationDate": 1767030296,
         "GameVersion": "edge_of_darkness",
         "AccountType": 0,
@@ -5095,7 +5182,9 @@
         "657bab6ec6f689d3a205b85f": false,
         "657babc6f58ba5a6250107a2": false,
         "657bb92fa1c61ee0c303631f": false,
-        "657bb99db30eca976305117f": false
+        "657bb99db30eca976305117f": false,
+        "63a897c6b1ff6e29734fcc95": false,
+        "63a8970d7108f713591149f5": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -5222,8 +5311,8 @@
   },
   "dialogues": {
     "5a7c2eca46aef81a7ca2145d": {
-      "attachmentsNew": 1,
-      "new": 1,
+      "attachmentsNew": 0,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -5234,22 +5323,11 @@
           "dt": 1767030539,
           "templateId": "6776e324810eb26b880fb4a5 0",
           "text": "",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "678d4d90fc70718b8c4067ad",
-            "data": [
-              {
-                "_id": "6952bf0b9c9fab3e60377427",
-                "_tpl": "590c2c9c86f774245b1f03f2",
-                "parentId": "678d4d90fc70718b8c4067ad",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": true
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         }
@@ -5257,8 +5335,8 @@
       "_id": "5a7c2eca46aef81a7ca2145d"
     },
     "59e7125688a45068a6249071": {
-      "attachmentsNew": 1,
-      "new": 1,
+      "attachmentsNew": 0,
+      "new": 0,
       "type": 7,
       "pinned": false,
       "messages": [
@@ -5268,57 +5346,11 @@
           "type": 7,
           "dt": 1767030539,
           "text": "Merry christmas!",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6952bf0b9c9fab3e60377428",
-            "data": [
-              {
-                "_id": "6952bf0b9c9fab3e6037742a",
-                "_tpl": "5aafbde786f774389d0cbc0f",
-                "parentId": "6952bf0b9c9fab3e60377428",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6952bf0b9c9fab3e6037742b",
-                "_tpl": "6389c6463485cf0eeb260715",
-                "parentId": "6952bf0b9c9fab3e60377428",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6952bf0b9c9fab3e6037742c",
-                "_tpl": "63a8970d7108f713591149f5",
-                "parentId": "6952bf0b9c9fab3e60377428",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6952bf0b9c9fab3e6037742d",
-                "_tpl": "63a8970d7108f713591149f5",
-                "parentId": "6952bf0b9c9fab3e60377428",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6952bf0b9c9fab3e6037742e",
-                "_tpl": "63a897c6b1ff6e29734fcc95",
-                "parentId": "6952bf0b9c9fab3e60377428",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 172800
         }
