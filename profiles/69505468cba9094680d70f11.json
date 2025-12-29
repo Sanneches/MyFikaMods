@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1766872270
+        "UpdateTime": 1767032184
       },
       "Inventory": {
         "items": [
@@ -5367,7 +5367,7 @@
         "HideoutCounters": null,
         "Seed": "19c45d72be04b7f31bd07751ba30c9b3",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1766873302,
+        "sptUpdateLastRunTimestamp": 1767032279,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -6334,11 +6334,198 @@
     "equipmentBuilds": [],
     "magazineBuilds": []
   },
-  "dialogues": {},
+  "dialogues": {
+    "54cb50c76803fa8b248b4571": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 2,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6952c578fad44a310415ae43",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 13,
+          "dt": 1767032184,
+          "templateId": "5fd4c8b59e4b2a58b34bbd28 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "64b996c9d0de4697180359b6",
+            "data": [
+              {
+                "_id": "6952c578fad44a310415ae44",
+                "_tpl": "544fb45d4bdc2dee738b4568",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6952c578fad44a310415ae45",
+                "_tpl": "5d02778e86f774203e7dedbe",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6952c578fad44a310415ae46",
+                "_tpl": "6034d0230ca681766b6a0fb5",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        }
+      ],
+      "_id": "54cb50c76803fa8b248b4571"
+    },
+    "5a7c2eca46aef81a7ca2145d": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 2,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6952c578fad44a310415ae47",
+          "uid": "5a7c2eca46aef81a7ca2145d",
+          "type": 13,
+          "dt": 1767032184,
+          "templateId": "6776e324810eb26b880fb4a5 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "678d4d90fc70718b8c4067ad",
+            "data": [
+              {
+                "_id": "6952c578fad44a310415ae48",
+                "_tpl": "590c2c9c86f774245b1f03f2",
+                "parentId": "678d4d90fc70718b8c4067ad",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
+        }
+      ],
+      "_id": "5a7c2eca46aef81a7ca2145d"
+    },
+    "59e7125688a45068a6249071": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 7,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6952c578fad44a310415ae4a",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1767032184,
+          "text": "Merry christmas!",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6952c578fad44a310415ae49",
+            "data": [
+              {
+                "_id": "6952c578fad44a310415ae4b",
+                "_tpl": "5aafbde786f774389d0cbc0f",
+                "parentId": "6952c578fad44a310415ae49",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6952c578fad44a310415ae4c",
+                "_tpl": "6389c6463485cf0eeb260715",
+                "parentId": "6952c578fad44a310415ae49",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6952c578fad44a310415ae4d",
+                "_tpl": "63a8970d7108f713591149f5",
+                "parentId": "6952c578fad44a310415ae49",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6952c578fad44a310415ae4e",
+                "_tpl": "63a8970d7108f713591149f5",
+                "parentId": "6952c578fad44a310415ae49",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6952c578fad44a310415ae4f",
+                "_tpl": "63a897c6b1ff6e29734fcc95",
+                "parentId": "6952c578fad44a310415ae49",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        }
+      ],
+      "_id": "59e7125688a45068a6249071"
+    }
+  },
   "spt": {
     "version": "4.0.10 (40087)",
-    "mods": [],
-    "receivedGifts": [],
+    "mods": [
+      {
+        "name": "server",
+        "version": "2.0.9",
+        "author": "Fika",
+        "dateAdded": 1767032184,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "Bring Me To Life - Revival Mod (Server)",
+        "version": "2.0.0",
+        "author": "Kobe Thuy",
+        "dateAdded": 1767032184
+      }
+    ],
+    "receivedGifts": [
+      {
+        "giftId": "PraporGiftDay1",
+        "timestampLastAccepted": 1767032184,
+        "current": 1
+      },
+      {
+        "giftId": "MechanicGiftDay1",
+        "timestampLastAccepted": 1767032184,
+        "current": 1
+      },
+      {
+        "giftId": "Christmas2022",
+        "timestampLastAccepted": 1767032184,
+        "current": 1
+      }
+    ],
     "blacklistedItemTpls": [],
     "freeRepeatableRefreshUsedCount": {},
     "migrations": {},
