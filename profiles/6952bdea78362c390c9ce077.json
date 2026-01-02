@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1767356668
+        "UpdateTime": 1767357760
       },
       "Inventory": {
         "items": [
@@ -14414,12 +14414,6 @@
           "value": 1,
           "sourceId": "6956ebc06c239638b0157a1d"
         },
-        "6956ebc06c239638b0157a2e": {
-          "id": "6956ebc06c239638b0157a2e",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6956ebc06c239638b0157a29"
-        },
         "6956ed656c239638b015d58c": {
           "id": "6956ed656c239638b015d58c",
           "type": "HandoverItem",
@@ -15263,7 +15257,7 @@
         "HideoutCounters": null,
         "Seed": "7947358f6099763725482733be85493c",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767357042,
+        "sptUpdateLastRunTimestamp": 1767357846,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -18723,6 +18717,46 @@
         "version": "2.0.9",
         "author": "GrooveypenguinX",
         "dateAdded": 1767356668
+      },
+      {
+        "name": "All Quests Checkmarks",
+        "version": "1.3.1",
+        "author": "ZGFueDkx",
+        "dateAdded": 1767357760,
+        "url": "https://github.com/danx91/AllQuestsCheckmarks"
+      },
+      {
+        "name": "Borkel's Realistic Night Vision Goggles",
+        "version": "2.0.2",
+        "author": "Borkel",
+        "dateAdded": 1767357760,
+        "url": "https://github.com/Borkel/RealisticNVG-client-2/"
+      },
+      {
+        "name": "LessRestrictingHeadwear",
+        "version": "2.4.0",
+        "author": "MusicManiac",
+        "dateAdded": 1767357760,
+        "url": "https://forge.sp-tarkov.com/mod/922/less-restricting-headwear"
+      },
+      {
+        "name": "MoreCheckmarksBackend",
+        "version": "2.0.0",
+        "author": "VIP",
+        "dateAdded": 1767357760
+      },
+      {
+        "name": "ItemInfo",
+        "version": "2.0.10",
+        "author": "ODT",
+        "dateAdded": 1767357760
+      },
+      {
+        "name": "Wolfiks Heavy Troopers",
+        "version": "1.1.0",
+        "author": "Hood",
+        "dateAdded": 1767357760,
+        "url": "https://forge.sp-tarkov.com/mod/1569/wolfiks-heavy-trooper-masks-reupload"
       }
     ],
     "receivedGifts": [
