@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1767357760
+        "UpdateTime": 1767358343
       },
       "Inventory": {
         "items": [
@@ -15257,7 +15257,7 @@
         "HideoutCounters": null,
         "Seed": "7947358f6099763725482733be85493c",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767357846,
+        "sptUpdateLastRunTimestamp": 1767358507,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -18757,6 +18757,33 @@
         "author": "Hood",
         "dateAdded": 1767357760,
         "url": "https://forge.sp-tarkov.com/mod/1569/wolfiks-heavy-trooper-masks-reupload"
+      },
+      {
+        "name": "Bosses Have Lega Medals",
+        "version": "2.0.1",
+        "author": "acidphantasm",
+        "dateAdded": 1767358343
+      },
+      {
+        "name": "Ammo Weight Modifier",
+        "version": "1.0.0",
+        "author": "LumurkFox",
+        "dateAdded": 1767358343,
+        "url": ""
+      },
+      {
+        "name": "KappaMarker",
+        "version": "2.0.0",
+        "author": "Cichaj",
+        "dateAdded": 1767358343,
+        "url": "https://github.com/rafalsoja/KappaMarker"
+      },
+      {
+        "name": "VCQ",
+        "version": "2.5.1",
+        "author": "Colobos9mm",
+        "dateAdded": 1767358343,
+        "url": "https://github.com/sp-tarkov/server-mod-examples"
       }
     ],
     "receivedGifts": [
