@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1768393563
+        "UpdateTime": 1768395368
       },
       "Inventory": {
         "items": [
@@ -51939,12 +51939,6 @@
           "value": 1,
           "sourceId": "5ae3267986f7742a413592fe"
         },
-        "696636cefdcf1f2ea01e78e4": {
-          "id": "696636cefdcf1f2ea01e78e4",
-          "type": "HandoverItem",
-          "value": 2,
-          "sourceId": "696636cefdcf1f2ea01e78e2"
-        },
         "5ac5e0fa86f77431c305d243": {
           "id": "5ac5e0fa86f77431c305d243",
           "type": "CounterCreator",
@@ -52016,18 +52010,6 @@
           "type": "HandoverItem",
           "value": 0,
           "sourceId": "61904daa7d0d857927447b9c"
-        },
-        "696636cefdcf1f2ea01e78f2": {
-          "id": "696636cefdcf1f2ea01e78f2",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "696636cefdcf1f2ea01e78ed"
-        },
-        "6966384bfdcf1f2ea01e89bd": {
-          "id": "6966384bfdcf1f2ea01e89bd",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6966384bfdcf1f2ea01e89b8"
         },
         "66a0f37f04fb80a0bfdbaf60": {
           "id": "66a0f37f04fb80a0bfdbaf60",
@@ -53032,7 +53014,7 @@
         "HideoutCounters": null,
         "Seed": "7947358f6099763725482733be85493c",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1768395155,
+        "sptUpdateLastRunTimestamp": 1768403380,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6754662cc6e063d76309c607",
@@ -55493,6 +55475,15 @@
           "status": 2,
           "statusTimers": {
             "2": 1768320297
+          },
+          "completedConditions": []
+        },
+        {
+          "qid": "687314e1ee500b06711955a2",
+          "startTime": 1768395506,
+          "status": 2,
+          "statusTimers": {
+            "2": 1768395506
           },
           "completedConditions": []
         }
@@ -60815,7 +60806,7 @@
     },
     "54cb50c76803fa8b248b4571": {
       "attachmentsNew": 0,
-      "new": 0,
+      "new": 1,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -61911,6 +61902,17 @@
             "data": []
           },
           "maxStorageTime": 86313600
+        },
+        {
+          "_id": "696792f3096339437c533d95",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 10,
+          "dt": 1768395507,
+          "templateId": "687314e1ee500b06711955a2 startedMessageText",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
