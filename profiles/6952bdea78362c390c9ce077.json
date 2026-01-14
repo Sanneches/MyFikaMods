@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1768395368
+        "UpdateTime": 1768403503
       },
       "Inventory": {
         "items": [
@@ -53014,7 +53014,7 @@
         "HideoutCounters": null,
         "Seed": "7947358f6099763725482733be85493c",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1768403380,
+        "sptUpdateLastRunTimestamp": 1768404358,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6754662cc6e063d76309c607",
@@ -61912,7 +61912,8 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": false,
-          "items": {}
+          "items": {},
+          "maxStorageTime": 86313600
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
